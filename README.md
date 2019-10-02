@@ -61,7 +61,9 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_Include the link to your `README.md` here._
+_https://github.com/rcsegura/tfcb-homework01/blob/master/README.md_
+
+_SIDE NOTE: Images were showing in the preview render, but not in the final render?_
 
 ## Problem 5
 
